@@ -4,7 +4,7 @@ body{
    
    .inputs{
     padding-left: 100px;
-     }
+   }
    #value1{
      margin: 20px;
  }
@@ -30,5 +30,4 @@ body{
      background-color:rgb(202, 202, 175) ;
      height: fit-content;
      width: 500px;
-     box-shadow: 12px 12px 10px black;
    }
